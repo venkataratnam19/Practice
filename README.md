@@ -9,7 +9,7 @@ Step3: Build the Docker Image using the following command: docker build -t <name
   
 Step4: Run the Docker image using the below command:
 
-docker run -d -p 80:80 --name= <nameofyourcontainer> <nameofyourimage>
+docker run -d -p 80:80 <nameofyourcontainer> <nameofyourimage>
   
 Step5: check the status using the following command: docker ps  -a
 
