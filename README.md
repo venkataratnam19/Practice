@@ -1,5 +1,5 @@
 
-This repository is for deploying an single index.html file as docker image.
+This repository is for deploying index.html file as docker image.
 
 Step1: Clone this repo(https://github.com/venkataratnam19/index.html-docker.git/)
 
